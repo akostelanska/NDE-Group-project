@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX77827CEFD+T
+D 5.5V Input, 1.8A/3.1A Switch Buck-Boost Converter with 6uA IQ
+K
+F https://www.analog.com/MAX77827/datasheet
+$ENDCMP
+#
+#End Doc Library
